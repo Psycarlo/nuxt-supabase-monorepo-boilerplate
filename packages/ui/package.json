@@ -1,0 +1,8 @@
+{
+  "name": "@nuxt-monorepo-boilerplate/ui",
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}

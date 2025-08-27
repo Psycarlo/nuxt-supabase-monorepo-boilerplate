@@ -32,3 +32,22 @@ todo
 
 - ✏️ Copy-paste beautiful components with [Inspira UI](https://inspira-ui.com/) and [Stunning UI](https://github.com/xiaoluoboding/stunning-ui/)
 - 📈 Charts with [Shadcn Vue Charts](https://www.shadcn-vue.com/docs/charts.html) or [Nuxt Charts](https://nuxtcharts.com/)
+
+## Try it now!
+
+1. Clone to local
+
+```bash
+git clone https://github.com/Psycarlo/nuxt-supabase-monorepo-boilerplate.git <path>
+```
+
+2. Install dependencies
+
+```bash
+pnpm i
+```
+
+3. Change things
+
+- [ ] Change the author name in `LICENSE`
+- [ ] Change packages `name` fields
