@@ -1,4 +1,6 @@
-todo
+<p align='center'>
+  <img src='https://github.com/user-attachments/assets/73446c49-72b6-455b-bba0-cb88c709fd6f' alt='Opinionated Nuxt & Supabase Template' width='600'/>
+</p>
 
 ## Features
 
